@@ -53,7 +53,7 @@ Este projeto faz parte das tarefas atribuídas em sala de aula e tem como objeti
 ## 📸 Screenshots da App:
 
 
-<p align="center">
+<p align="left">
   <strong>🔐 Tela 1 – Tela inicial de login</strong><br>
   <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login1.png" width="200"/>
   <br>
