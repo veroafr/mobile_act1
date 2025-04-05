@@ -55,27 +55,27 @@ Este projeto faz parte das tarefas atribuídas em sala de aula e tem como objeti
 
 <p align="left">
   <strong>🔐 Tela 1 – Tela inicial de login</strong><br>
-  <img src="https://i.ibb.co/mVwFyVrM/login1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login1.png" width="200"/>
   <br>
 
   <strong>👤 Tela 2 – Campo de nome e senha preenchido</strong><br>
-  <img src="https://i.ibb.co/b5H0xngs/login2.png" width="200" height="231"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login2.png" width="200" height="231"/>
   <br>
 
   <strong>🔑 Tela 3 – Ver senha oculta</strong><br>
-  <img src="https://i.ibb.co/1JJ0FPMd/login3.png" width="200" height="255"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login3.png" width="200" height="255"/>
   <br>
 
   <strong>✅ Tela 4 – Login efetuado com sucesso</strong><br>
-  <img src="https://i.ibb.co/vvDHQYqG/login4.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login4.png" width="200"/>
   <br>
 
   <strong>⚠️ Tela 5 – Alerta de campo obrigatório</strong><br>
-  <img src="https://i.ibb.co/vx2J6hTd/login7.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login7.png" width="200"/>
   <br>
 
   <strong>🔄 Tela 6 – Mostrar dados guardados</strong><br>
-  <img src="https://i.ibb.co/qFsYhwVW/login6.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/veroafr/mobile_act1/refs/heads/main/img/login6.png" width="200"/>
 </p>
 
 ---
